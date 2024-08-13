@@ -42,6 +42,9 @@ button {
   margin: 4px 2px;
   cursor: pointer;
 }
+button:hover {
+  background-color: #25248aff;
+}
 /* To show that you are on the site */
 .active {
   background-color: #ffff;
